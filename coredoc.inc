@@ -1,1 +1,1 @@
-COREDOC="ac97 aceusb bram conbus fmlbrg hpdmc_ddr32 pfpu sysctl tmu uart vgafb"
+COREDOC="aceusb bram conbus fmlbrg hpdmc_ddr32 sysctl uart vgafb"
