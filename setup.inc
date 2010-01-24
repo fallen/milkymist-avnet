@@ -7,6 +7,6 @@ fi
 # Board name (name of the subfolder of the "boards" folder)
 if [ -z "$BOARD" ]
 then
-	BOARD=xilinx-ml401
+	BOARD=avnet-sp3aevl
 fi
 
